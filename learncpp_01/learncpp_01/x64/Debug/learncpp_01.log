@@ -1,2 +1,3 @@
-﻿  HelloWorld.cpp
-  learncpp_01.vcxproj -> D:\cppproject\learncpp_01\x64\Debug\learncpp_01.exe
+﻿  变量.cpp
+变量.obj : error LNK2005: main 已经在 HelloWorld.obj 中定义
+D:\cppproject\learn_cpp\learncpp_01\learncpp_01\x64\Debug\learncpp_01.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
