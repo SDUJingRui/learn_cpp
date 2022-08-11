@@ -1,3 +1,1 @@
-﻿  数据类型与sizeof.cpp
-D:\cppproject\learn_cpp\learncpp_01\learncpp_01\数据类型与sizeof.cpp(46,17): warning C4305: “初始化”: 从“double”到“float”截断
-  learncpp_01.vcxproj -> D:\cppproject\learn_cpp\learncpp_01\learncpp_01\x64\Debug\learncpp_01.exe
+﻿  learncpp_01.vcxproj -> D:\cppproject\learn_cpp\learncpp_01\learncpp_01\x64\Debug\learncpp_01.exe
