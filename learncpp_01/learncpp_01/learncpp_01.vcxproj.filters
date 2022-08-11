@@ -21,5 +21,17 @@
     <ClCompile Include="变量.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="常量.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="关键字与命名规则.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数据类型与sizeof.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="转义字符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
