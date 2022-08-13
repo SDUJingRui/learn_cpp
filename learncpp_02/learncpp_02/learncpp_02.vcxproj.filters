@@ -36,5 +36,20 @@
     <ClCompile Include="三只小猪.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="三目运算符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="switch.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="while.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="猜数字.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="dowhile.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
